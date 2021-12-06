@@ -1,4 +1,4 @@
-# Hi, I'm Ali, Welcome to my github prfile!
+# Hi, I'm Ali, Welcome to my github profile!
 
 It is under Develop :) Please come back in a few days!
 
